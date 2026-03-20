@@ -15,7 +15,7 @@ Substitute Professor @ Federal University of Paraná (Palotina)
 
 ## About
 
-Researcher in Machine Learning with a focus on real-world industrial applications.  
+Researcher in Machine Learning with a focus on real-world applications.  
 My work lies at the intersection of:
 
 - Time Series Classification  
