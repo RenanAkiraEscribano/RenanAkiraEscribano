@@ -9,7 +9,6 @@ Substitute Professor @ Federal University of Paraná (Palotina)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=flat&logo=google-scholar&logoColor=white)](https://scholar.google.com.br/citations?hl=pt-BR&user=k655vc0AAAAJ)
 [![Lattes](https://img.shields.io/badge/Lattes-CV-00599C?style=flat)](https://lattes.cnpq.br/2902920151256978)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Network-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rangescribano/)
-[![GitHub](https://img.shields.io/badge/GitHub-Projects-181717?style=flat&logo=github&logoColor=white)](https://github.com/RenanAkiraEscribano)
 
 ---
 
