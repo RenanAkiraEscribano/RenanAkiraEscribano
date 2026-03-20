@@ -59,15 +59,9 @@ I investigate data-driven and interpretable approaches for robust decision-makin
 ![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=flat&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DL-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-Data-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific-013243?style=flat&logo=numpy&logoColor=white)
+![Database](https://img.shields.io/badge/Database-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black)
 
----
-
-## GitHub Statistics
-
-![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=RenanAkiraEscribano&show_icons=true&hide_title=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RenanAkiraEscribano&layout=compact)
 
 ---
 
@@ -77,7 +71,3 @@ I investigate data-driven and interpretable approaches for robust decision-makin
 - Academic Profile: https://renanakiraescribano.github.io/rangescribano/
 
 ---
-
-## Research Statement
-
-My research aims to develop robust and interpretable machine learning methods for complex, real-world systems, with particular emphasis on non-stationary environments and industrial time series data.
